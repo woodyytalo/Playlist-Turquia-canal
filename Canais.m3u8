@@ -101,8 +101,6 @@ https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="PowerTürk TV" group-title="MÚSICA",PowerTürk TV
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 
-#EXTM3U
-
 #EXTINF:-1 tvg-name="A Spor" group-title="ESPORTES",A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 

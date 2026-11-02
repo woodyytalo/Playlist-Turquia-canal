@@ -101,42 +101,13 @@ https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="PowerTürk TV" group-title="MÚSICA",PowerTürk TV
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="PowerTürk Taptaze TV" group-title="MÚSICA",PowerTürk Taptaze TV
-https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="TV 1" group-title="REGIONAIS",TV 1
-https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="24 TV" group-title="NOTÍCIAS",24 TV
-https://tv.ensonhaber.com/tv24/tv24.m3u8
 #EXTM3U
 
 #EXTINF:-1 tvg-name="A Spor" group-title="ESPORTES",A Spor
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
-
-#EXTINF:-1 tvg-name="TRT Spor" group-title="ESPORTES",TRT Spor
-https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
-
-#EXTINF:-1 tvg-name="TRT Spor Yıldız" group-title="ESPORTES",TRT Spor Yıldız
-https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-name="HT Spor" group-title="ESPORTES",HT Spor
-https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
-
-#EXTINF:-1 tvg-name="Sports TV" group-title="ESPORTES",Sports TV
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 
 #EXTINF:-1 tvg-name="TJK TV" group-title="ESPORTES",TJK TV
-https://tjktv-live.tjk.org/tjktv_1080p.m3u8
+https://tjktv-live.tjk.org/tjktv/tjktv.m3u8
 
 #EXTINF:-1 tvg-name="TAY TV" group-title="ESPORTES",TAY TV
 https://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ekol Sports" group-title="ESPORTES",Ekol Sports
-https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
-
-#EXTINF:-1 tvg-name="FB TV" group-title="ESPORTES",FB TV
-https://1hskrdto.rocketcdn.com/fenerbahcetv/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="Sıfır TV" group-title="ESPORTES",Sıfır TV
-https://ahr7chck.rocketcdn.com/sifirtv/chunklist.m3u8

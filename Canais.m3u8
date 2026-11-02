@@ -109,3 +109,29 @@ https://tjktv-live.tjk.org/tjktv/tjktv.m3u8
 
 #EXTINF:-1 tvg-name="TAY TV" group-title="ESPORTES",TAY TV
 https://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-name="A Haber" group-title="NOTÍCIAS",A Haber
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
+
+#EXTINF:-1 tvg-name="NTV" group-title="NOTÍCIAS",NTV
+https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
+
+#EXTINF:-1 tvg-name="Haber Global" group-title="NOTÍCIAS",Haber Global
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+
+#EXTINF:-1 tvg-name="TRT Haber" group-title="NOTÍCIAS",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="Habertürk" group-title="NOTÍCIAS",Habertürk
+https://tv.ensonhaber.com/haberturk/haberturk.m3u8
+
+#EXTINF:-1 tvg-name="Halk TV" group-title="NOTÍCIAS",Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+
+#EXTINF:-1 tvg-name="TGRT Haber" group-title="NOTÍCIAS",TGRT Haber
+https://canli.tgrthaber.com/tgrt.m3u8
+
+#EXTINF:-1 tvg-name="CNN Türk" group-title="NOTÍCIAS",CNN Türk
+https://demiroren-live.daioncdn.net/cnnturk/cnnturk.m3u8

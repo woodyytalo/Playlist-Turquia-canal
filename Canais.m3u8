@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="ATV" group-title="ULUSAL",ATV
+#EXTINF:-1 tvg-name="ATV" group-title="ENTRETENIMENTO",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 
-#EXTINF:-1 tvg-name="NOW" group-title="ULUSAL",NOW
+#EXTINF:-1 tvg-name="NOW" group-title="ENTRETENIMENTO",NOW
 http://116.202.238.88/FOXTV_TR/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT 1" group-title="TRT",TRT 1

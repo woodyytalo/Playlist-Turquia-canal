@@ -196,3 +196,46 @@ https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
 
 #EXTINF:-1 tvg-name="BRTV Karabük" tvg-logo="https://www.tvlogo.org/turkey/brtv-tr.png" group-title="Regionais",BRTV Karabük
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
+
+
+#EXTINF:-1 tvg-name="FRT TV" group-title="Locais",FRT TV
+https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
+
+#EXTINF:-1 tvg-name="GRT Gaziantep TV" group-title="Locais",GRT Gaziantep TV
+https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Kanal 32" group-title="Locais",Kanal 32
+https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Kanal 58" group-title="Locais",Kanal 58
+https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Kanal B" group-title="Locais",Kanal B
+https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8
+
+#EXTINF:-1 tvg-name="Kanal V" group-title="Locais",Kanal V
+https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV 264 Sakarya" group-title="Locais",TV 264 Sakarya
+http://mc1.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV 41 Kocaeli" group-title="Locais",TV 41 Kocaeli
+https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV DEN" group-title="Locais",TV DEN
+http://canli.tvden.com.tr/hls/live.m3u8
+
+#EXTINF:-1 tvg-name="Tempo TV" group-title="Locais",Tempo TV
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tivi 6" group-title="Locais",Tivi 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ton TV" group-title="Locais",Ton TV
+https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Urfanatik TV" group-title="Locais",Urfanatik TV
+https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Vuslat TV" group-title="Locais",Vuslat TV
+https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8

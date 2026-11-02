@@ -1,9 +1,10 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-name="ATV" group-title="ULUSAL",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 
 #EXTINF:-1 tvg-name="NOW" group-title="ULUSAL",NOW
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+http://116.202.238.88/FOXTV_TR/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT 1" group-title="TRT",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
@@ -12,16 +13,16 @@ https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 https://canli.tgrthaber.com/tgrt.m3u8
 
 #EXTINF:-1 tvg-name="Star TV" group-title="ENTRETENIMENTO",Star TV
-https://dogus-live.daioncdn.net/startv/startv.m3u8
+https://dogus-live.daioncdn.net/startv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Euro D" group-title="ENTRETENIMENTO",Euro D
-https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TV8" group-title="ENTRETENIMENTO",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 
 #EXTINF:-1 tvg-name="Show TV" group-title="ENTRETENIMENTO",Show TV
-https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
 
 #EXTINF:-1 tvg-name="TRT Türk" group-title="TRT",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
@@ -33,9 +34,9 @@ https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 
 #EXTINF:-1 tvg-name="Kanal 7 Avrupa" group-title="ENTRETENIMENTO",Kanal 7 Avrupa
-https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 
-#EXTINF:-1 tvg-name="360 TV" group-title="ENTRETENIMENTO",360 TV
+#EXTINF:-1 tvg-name="360 TV" group-title="NOTÍCIAS",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
 #EXTINF:-1 tvg-name="TV4" group-title="ENTRETENIMENTO",TV4
@@ -51,55 +52,37 @@ https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-name="NTV" group-title="NOTÍCIAS",NTV
-https://dogus-live.daioncdn.net/ntv/playlist.m3u8
+https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
 
 #EXTINF:-1 tvg-name="Haber Global" group-title="NOTÍCIAS",Haber Global
 https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
 
 #EXTINF:-1 tvg-name="Halk TV" group-title="NOTÍCIAS",Halk TV
-https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
+https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609
 
 #EXTINF:-1 tvg-name="TV100" group-title="NOTÍCIAS",TV100
-https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
+https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
 
 #EXTINF:-1 tvg-name="Bengü Türk" group-title="NOTÍCIAS",Bengü Türk
-https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
+https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
 
 #EXTINF:-1 tvg-name="Akit TV" group-title="NOTÍCIAS",Akit TV
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
-
-#EXTINF:-1 tvg-name="Kral Pop" group-title="MÚSICA",Kral Pop
-https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TürkHaber" group-title="NOTÍCIAS",TürkHaber
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Number 1 TV" group-title="MÚSICA",Number 1 TV
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="TVNET" group-title="NOTÍCIAS",TVNET
-https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
-
-#EXTINF:-1 tvg-name="NR1 Aşk" group-title="MÚSICA",NR1 Aşk
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="NR1 Dance" group-title="MÚSICA",NR1 Dance
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="TRT Müzik" group-title="MÚSICA",TRT Müzik
-https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-name="PowerTürk Taptaze TV" group-title="MÚSICA",PowerTürk Taptaze TV
-https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Dream Türk" group-title="MÚSICA",Dream Türk
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TRT Belgesel" group-title="TRT",TRT Belgesel
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT Arabi" group-title="TRT",TRT Arabi
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT Çocuk" group-title="TRT",TRT Çocuk
-https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT EBA" group-title="TRT",TRT EBA
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="TRT Kurdî" group-title="TRT",TRT Kurdî
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
@@ -107,32 +90,29 @@ https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT World" group-title="TRT",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="PowerTürk TV" group-title="MÚSICA",PowerTürk TV
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Kral Pop" group-title="MÚSICA",Kral Pop
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NR1 Aşk" group-title="MÚSICA",NR1 Aşk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NR1 Dance" group-title="MÚSICA",NR1 Dance
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Power TV" group-title="MÚSICA",Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TELE1" group-title="NOTÍCIAS",TELE1
-https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
+#EXTINF:-1 tvg-name="PowerTürk TV" group-title="MÚSICA",PowerTürk TV
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="A Haber" group-title="NOTÍCIAS",A Haber
-https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
-
-#EXTINF:-1 tvg-name="Ülke TV" group-title="NOTÍCIAS",Ülke TV
-https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="24 TV" group-title="NOTÍCIAS",24 TV
-https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-
-#EXTINF:-1 tvg-name="Kanal D" group-title="ENTRETENIMENTO",Kanal D
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:-1 tvg-name="PowerTürk Taptaze TV" group-title="MÚSICA",PowerTürk Taptaze TV
+https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TV 1" group-title="REGIONAIS",TV 1
 https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TRT Arabi" group-title="TRT",TRT Arabi
-https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="24 TV" group-title="NOTÍCIAS",24 TV
+https://tv.ensonhaber.com/tv24/tv24.m3u8
 
-#EXTINF:-1 tvg-name="Power Love TV" group-title="MÚSICA",Power Love TV
-https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TV 24" group-title="REGIONAIS",TV 24
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8

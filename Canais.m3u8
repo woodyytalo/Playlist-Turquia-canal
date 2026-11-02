@@ -11,7 +11,7 @@ https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TGRT Haber" group-title="NOTÍCIAS",TGRT Haber
 https://canli.tgrthaber.com/tgrt.m3u8
 
-#EXTINF:-1 tvg-name="Star TV"grup-title="ENTRETENIMENTO"STAR TV 
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV" group-title="ENTRETENIMENTO",Star TV
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
 
 #EXTINF:-1 tvg-name="Euro D" group-title="ENTRETENIMENTO",Euro D
@@ -109,6 +109,3 @@ https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="24 TV" group-title="NOTÍCIAS",24 TV
 https://tv.ensonhaber.com/tv24/tv24.m3u8
-
-#EXTINF:-1 tvg-name="TV 24" group-title="REGIONAIS",TV 24
-https://turkmedya-live.ercdn.net/tv24/tv24.m3u8

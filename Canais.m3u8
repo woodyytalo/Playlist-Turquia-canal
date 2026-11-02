@@ -38,7 +38,7 @@ https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1 tvg-name="360 TV" group-title="NOTÍCIAS",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
-#EXTINF:-1 tvg-name="TV4" group-title="ENTRETENIMENTO",TV4
+#EXTINF:-1 tvg-name="TV4" group-title="ESTILO DE VIDA E VARIEDADES",TV4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
 #EXTINF:-1 tvg-name="TJK TV" group-title="ESPORTES",TJK TV
@@ -169,3 +169,73 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 
 #EXTINF:-1 tvg-name="Kanal D Drama" group-title="ENTRETENIMENTO",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="Dim TV" group-title="Regionais",Dim TV
+https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Diyar TV" group-title="Regionais",Diyar TV
+https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ER TV Malatya" group-title="Regionais",ER TV Malatya
+https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Erciyes TV" group-title="Regionais",Erciyes TV
+https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Erzurum Web TV" group-title="Regionais",Erzurum Web TV
+https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ES TV" group-title="Regionais",ES TV
+https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ETV" group-title="Regionais",ETV
+https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ezgi TV" group-title="Regionais",Ezgi TV
+https://live.euromediacenter.com/ezgitv/index.m3u8
+
+#EXTINF:-1 tvg-name="Haber61 TV" group-title="Regionais",Haber61 TV
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
+
+#EXTINF:-1 tvg-name="Hunat TV" group-title="Regionais",Hunat TV
+https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="K+ Kayseri" group-title="Regionais",K+ Kayseri
+https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Kanal 19 Çorum" group-title="Regionais",Kanal 19 Çorum
+https://live.euromediacenter.com/kanal19/index.m3u8
+
+#EXTINF:-1 tvg-name="Kanal 23 Elazığ" group-title="Regionais",Kanal 23 Elazığ
+https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Kanal 26 Eskişehir" group-title="Regionais",Kanal 26 Eskişehir
+https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Kanal 3 Afyonkarahisar" group-title="Regionais",Kanal 3 Afyonkarahisar
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Kanal 34 İstanbul" group-title="Regionais",Kanal 34 İstanbul
+https://live.euromediacenter.com/kanal34/index.m3u8
+
+#EXTINF:-1 tvg-name="Kanal 53 Rize" group-title="Regionais",Kanal 53 Rize
+https://kanal53.ozelip.com:3448/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-name="Kay TV Kayseri" group-title="Regionais",Kay TV Kayseri
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Konya KTV" group-title="Regionais",Konya KTV
+https://cdn-ktvtv.yayin.com.tr/ktvtv/ktvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Konya Olay TV" group-title="Regionais",Konya Olay TV
+https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Kanal 12" group-title="Regionais",Kanal 12
+https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Kanal 15" group-title="Regionais",Kanal 15
+https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BRTV Karabük" group-title="Regionais",BRTV Karabük
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8

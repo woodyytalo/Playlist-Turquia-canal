@@ -135,3 +135,32 @@ https://canli.tgrthaber.com/tgrt.m3u8
 
 #EXTINF:-1 tvg-name="CNN Türk" group-title="NOTÍCIAS",CNN Türk
 https://demiroren-live.daioncdn.net/cnnturk/cnnturk.m3u8
+
+
+#EXTINF:-1 tvg-name="A2" group-title="Notícias",A2
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+
+#EXTINF:-1 tvg-name="Beyaz TV" group-title="Notícias",Beyaz TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+
+#EXTINF:-1 tvg-name="TV100" group-title="Notícias",TV100
+https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
+
+#EXTINF:-1 tvg-name="TVNET" group-title="Notícias",TVNET
+https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ülke TV" group-title="Notícias",Ülke TV
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Akit TV" group-title="Notícias",Akit TV
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+
+#EXTINF:-1 tvg-name="Bengü Türk" group-title="Notícias",Bengü Türk
+https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
+
+#EXTINF:-1 tvg-name="TürkHaber" group-title="Notícias",TürkHaber
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TELE1" group-title="Notícias",TELE1
+https://tele1dvr.blutv.com/blutv_tele1_dvr2/live_720p2000000kbps/index.m3u8
+

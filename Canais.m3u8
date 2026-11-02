@@ -110,7 +110,6 @@ https://tjktv-live.tjk.org/tjktv/tjktv.m3u8
 #EXTINF:-1 tvg-name="TAY TV" group-title="ESPORTES",TAY TV
 https://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8
 
-#EXTM3U
 
 #EXTINF:-1 tvg-name="A Haber" group-title="NOTÍCIAS",A Haber
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8

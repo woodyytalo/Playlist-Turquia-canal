@@ -163,3 +163,9 @@ https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="TELE1" group-title="Notícias",TELE1
 https://tele1dvr.blutv.com/blutv_tele1_dvr2/live_720p2000000kbps/index.m3u8
 
+
+#EXTINF:-1 tvg-name="Kanal D" group-title="Entretenimento",Kanal D
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+
+#EXTINF:-1 tvg-name="Kanal D Drama" group-title="Entretenimento",Kanal D Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8

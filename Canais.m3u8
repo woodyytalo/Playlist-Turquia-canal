@@ -1,19 +1,18 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-name="ATV" group-title="ENTRETENIMENTO",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 
 #EXTINF:-1 tvg-name="NOW" group-title="ENTRETENIMENTO",NOW
 http://116.202.238.88/FOXTV_TR/index.m3u8
 
-#EXTINF:-1 tvg-name="TRT 1" group-title="TRT",TRT 1
+#EXTINF:-1 tvg-name="TRT 1" group-title="ENTRETENIMENTO",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-name="TGRT Haber" group-title="NOTÍCIAS",TGRT Haber
 https://canli.tgrthaber.com/tgrt.m3u8
 
-#EXTINF:-1 tvg-name="Star TV" group-title="ENTRETENIMENTO",Star TV
-https://dogus-live.daioncdn.net/startv/playlist.m3u8
+#EXTINF:-1 tvg-name="Star TV"grup-title="ENTRETENIMENTO"STAR TV 
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
 
 #EXTINF:-1 tvg-name="Euro D" group-title="ENTRETENIMENTO",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
@@ -89,9 +88,6 @@ https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="TRT World" group-title="TRT",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-name="Kral Pop" group-title="MÚSICA",Kral Pop
-https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NR1 Aşk" group-title="MÚSICA",NR1 Aşk
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8

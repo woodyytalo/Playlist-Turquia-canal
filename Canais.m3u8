@@ -238,3 +238,18 @@ https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m
 
 #EXTINF:-1 tvg-name="Vuslat TV" tvg-logo="https://www.tvlogo.org/turkey/vuslat-tv-tr.png" group-title="Locais",Vuslat TV
 https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-name="TRT Çocuk" group-title="Infantis",TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT Diyanet Çocuk" group-title="Infantis",TRT Diyanet Çocuk
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="Minika Çocuk" group-title="Infantis",Minika Çocuk
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+
+#EXTINF:-1 tvg-name="Minika GO" group-title="Infantis",Minika GO
+https://trkvz-live.daioncdn.net/minikago/minikago_720p.m3u8

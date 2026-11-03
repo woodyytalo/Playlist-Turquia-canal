@@ -26,8 +26,16 @@ https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-3
 #EXTINF:-1 tvg-name="TRT Türk" tvg-logo="https://www.tvlogo.org/turkey/trt-turk-tr.png" group-title="TRT",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-name="TRT 2" tvg-logo="https://www.tvlogo.org/turkey/trt-2-tr.png" group-title="TRT",TRT 2
-https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name="TRT EBA İlkokul" group-title="Educativos",TRT EBA İlkokul
+https://tv-e-okul00.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT EBA Lise" group-title="Educativos",TRT EBA Lise
+https://tv-e-okul02.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT Genç" group-title="Educativos",TRT Genç
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8
+
 
 #EXTINF:-1 tvg-name="Beyaz TV" tvg-logo="https://www.tvlogo.org/turkey/beyaz-tv-tr.png" group-title="ENTRETENIMENTO",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
@@ -253,20 +261,3 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3
 https://trkvz-live.daioncdn.net/minikago/minikago_720p.m3u8
 
 
-#EXTINF:-1 tvg-name="TLC" group-title="Estilo de Vida e Variedades",TLC Türkiye
-https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-
-#EXTINF:-1 tvg-name="DMAX" group-title="Estilo de Vida e Variedades",DMAX Türkiye
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-
-#EXTINF:-1 tvg-name="TRT 2" group-title="Estilo de Vida e Variedades",TRT 2
-https://tv-trt2.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-name="TRT Belgesel" group-title="Estilo de Vida e Variedades",TRT Belgesel
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-name="TGRT Belgesel" group-title="Estilo de Vida e Variedades",TGRT Belgesel
-https://tgn.bozztv.com/dvrfl05/gin-tgrtbelgesel/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="Yaban TV" group-title="Estilo de Vida e Variedades",Yaban TV
-https://yabantv-live.ercdn.net/yabantv/yabantv.m3u8

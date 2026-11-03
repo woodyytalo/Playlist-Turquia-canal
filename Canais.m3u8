@@ -27,15 +27,18 @@ https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-3
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
 
-#EXTINF:-1 tvg-name="TRT EBA İlkokul" group-title="Educativos",TRT EBA İlkokul
-https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT EBA Lise" group-title="Educativos",TRT EBA Lise
-https://tv-e-okul02.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="Diyanet TV" group-title="Religiosos",Diyanet TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TRT Genç" group-title="Educativos",TRT Genç
-https://tv-trtgenc.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="Dost TV" group-title="Religiosos",Dost TV
+https://dost.stream.emsal.im/tv/live.m3u8
 
+#EXTINF:-1 tvg-name="Lalegül TV" group-title="Religiosos",Lalegül TV
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+
+#EXTINF:-1 tvg-name="Sercem TV" group-title="Religiosos",Sercem TV
+https://canli.sercemtv.com.tr/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-name="Beyaz TV" tvg-logo="https://www.tvlogo.org/turkey/beyaz-tv-tr.png" group-title="ENTRETENIMENTO",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8

@@ -1,1 +1,1 @@
-scripts/.validar.m3u.py
+scripts/validar_m3u.py

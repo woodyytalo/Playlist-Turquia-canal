@@ -240,8 +240,6 @@ https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m
 https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
 
 
-#EXTM3U
-
 #EXTINF:-1 tvg-name="TRT Çocuk" group-title="Infantis",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 

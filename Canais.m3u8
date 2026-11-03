@@ -28,14 +28,14 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Power Dance TV" group-title="Música",Power Dance TV
+#EXTINF:-1 tvg-name="Power Dance TV" group-title="MÚSICA",Power Dance TV
 https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Power Pop TV" group-title="Música",Power Pop TV
+#EXTINF:-1 tvg-name="Power Pop TV" group-title="MÚSICA",Power Pop TV
 
-#EXTINF:-1 tvg-name="Power Plus TV" group-title="Música",Power Plus TV
+#EXTINF:-1 tvg-name="Power Plus TV" group-title="MÚSICA",Power Plus TV
 
-#EXTINF:-1 tvg-name="PowerTürk Akustik TV" group-title="Música",PowerTürk Akustik TV
+#EXTINF:-1 tvg-name="PowerTürk Akustik TV" group-title="MÚSICA",PowerTürk Akustik TV
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 
 

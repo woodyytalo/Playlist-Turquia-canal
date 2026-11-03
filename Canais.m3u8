@@ -251,3 +251,22 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3
 
 #EXTINF:-1 tvg-name="Minika GO" group-title="Infantis",Minika GO
 https://trkvz-live.daioncdn.net/minikago/minikago_720p.m3u8
+
+
+#EXTINF:-1 tvg-name="TLC" group-title="Estilo de Vida e Variedades",TLC Türkiye
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+
+#EXTINF:-1 tvg-name="DMAX" group-title="Estilo de Vida e Variedades",DMAX Türkiye
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+
+#EXTINF:-1 tvg-name="TRT 2" group-title="Estilo de Vida e Variedades",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT Belgesel" group-title="Estilo de Vida e Variedades",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TGRT Belgesel" group-title="Estilo de Vida e Variedades",TGRT Belgesel
+https://tgn.bozztv.com/dvrfl05/gin-tgrtbelgesel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Yaban TV" group-title="Estilo de Vida e Variedades",Yaban TV
+https://yabantv-live.ercdn.net/yabantv/yabantv.m3u8

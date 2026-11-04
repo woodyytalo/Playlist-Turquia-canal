@@ -265,7 +265,7 @@ https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT Çocuk" group-title="Infantis",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT Diyanet Çocuk" group-title="Infantis",TRT Diyanet Çocuk
+#EXTINF:-1 tvg-name="TRT Diyanet Çocuk" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/TRT_Diyanet_%C3%87ocuk_logo.svg/330px-TRT_Diyanet_%C3%87ocuk_logo.svg.png?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org" group-title="Infantis",TRT Diyanet Çocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="Minika Çocuk" group-title="Infantis",Minika Çocuk

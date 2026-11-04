@@ -23,7 +23,6 @@ jobs:
       - name: Verificar e adicionar logos conhecidos
         run: |
           python - <<'PY'
-          import re
           import urllib.request
           from pathlib import Path
 
@@ -31,8 +30,8 @@ jobs:
           if not playlist.exists():
               raise SystemExit("ERRO: Canais.m3u8 não foi encontrado.")
 
-          # URLs candidatas seguem o mesmo catálogo de logos já usado na playlist.
-          # Só serão aplicadas se o servidor confirmar que o recurso é uma imagem.
+          # Candidatos no mesmo catálogo já usado pela playlist.
+          # Só adiciona quando o servidor confirma uma resposta de imagem.
           logos = {
               "Power Dance TV": "https://www.tvlogo.org/turkey/power-dance-tv-tr.png",
               "Power Love TV": "https://www.tvlogo.org/turkey/power-love-tv-tr.png",
@@ -43,8 +42,7 @@ jobs:
               "Sercem TV": "https://www.tvlogo.org/turkey/sercem-tv-tr.png",
           }
 
-          text = playlist.read_text(encoding="utf-8")
-          lines = text.splitlines()
+          lines = playlist.read_text(encoding="utf-8").splitlines()
           changed = False
           updated = []
 
@@ -54,29 +52,26 @@ jobs:
                   candidate = logos.get(channel)
                   if candidate:
                       try:
-                          req = urllib.request.Request(
-                              candidate,
-                              headers={"User-Agent": "Mozilla/5.0"},
-                              method="GET"
+                          request = urllib.request.Request(
+                              candidate, headers={"User-Agent": "Mozilla/5.0"}
                           )
-                          with urllib.request.urlopen(req, timeout=15) as response:
+                          with urllib.request.urlopen(request, timeout=15) as response:
                               content_type = response.headers.get("Content-Type", "").lower()
-                              valid = response.status == 200 and content_type.startswith("image/")
-                              if valid:
-                                  line = re.sub(r"(?<!\\S)(group-title=)", f'tvg-logo="{candidate}" \\1', line, count=1)
+                              if response.status == 200 and content_type.startswith("image/"):
+                                  line = line.replace("group-title=", f'tvg-logo="{candidate}" group-title=', 1)
                                   changed = True
                                   print(f"Logo confirmado e adicionado: {channel}")
                               else:
-                                  print(f"Logo ignorado (resposta não é imagem): {channel}")
-                      except Exception as exc:
-                          print(f"Logo não confirmado; mantido sem alteração: {channel} ({exc})")
+                                  print(f"Logo ignorado: resposta não é imagem ({channel})")
+                      except Exception as error:
+                          print(f"Logo não confirmado; sem alteração ({channel}): {error}")
               updated.append(line)
 
           if changed:
-              playlist.write_text("\\n".join(updated) + "\\n", encoding="utf-8")
-              print("Canais.m3u8 atualizado somente nos atributos tvg-logo ausentes.")
+              playlist.write_text("\n".join(updated) + "\n", encoding="utf-8")
+              print("Playlist atualizada apenas nos atributos tvg-logo ausentes.")
           else:
-              print("Nenhum logo foi confirmado. Playlist mantida sem alterações.")
+              print("Nenhum logo confirmado. Playlist mantida sem alterações.")
           PY
 
       - name: Salvar alterações

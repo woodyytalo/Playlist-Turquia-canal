@@ -38,13 +38,13 @@ https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="Diyanet TV" group-title="Religiosos",Diyanet TV
+#EXTINF:-1 tvg-name="Diyanet TV" tvg-logo="https://www.tvlogo.org/turkey/diyanet-tv-tr.png" group-title="Religiosos",Diyanet TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Dost TV" group-title="Religiosos",Dost TV
+#EXTINF:-1 tvg-name="Dost TV" tvg-logo="https://www.tvlogo.org/turkey/dost-tv-tr.png" group-title="Religiosos",Dost TV
 https://dost.stream.emsal.im/tv/live.m3u8
 
-#EXTINF:-1 tvg-name="Lalegül TV" group-title="Religiosos",Lalegül TV
+#EXTINF:-1 tvg-name="Lalegül TV" tvg-logo="https://www.tvlogo.org/turkey/lalegul-tv-tr.png" group-title="Religiosos",Lalegül TV
 https://lbl.netmedya.net/hls/lalegultv.m3u8
 
 #EXTINF:-1 tvg-name="Sercem TV" group-title="Religiosos",Sercem TV

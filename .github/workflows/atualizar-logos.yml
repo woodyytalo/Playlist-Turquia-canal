@@ -1,0 +1,92 @@
+name: Atualizar logos dos canais
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 9 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar-logos:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Verificar e adicionar logos conhecidos
+        run: |
+          python - <<'PY'
+          import re
+          import urllib.request
+          from pathlib import Path
+
+          playlist = Path("Canais.m3u8")
+          if not playlist.exists():
+              raise SystemExit("ERRO: Canais.m3u8 não foi encontrado.")
+
+          # URLs candidatas seguem o mesmo catálogo de logos já usado na playlist.
+          # Só serão aplicadas se o servidor confirmar que o recurso é uma imagem.
+          logos = {
+              "Power Dance TV": "https://www.tvlogo.org/turkey/power-dance-tv-tr.png",
+              "Power Love TV": "https://www.tvlogo.org/turkey/power-love-tv-tr.png",
+              "PowerTürk Akustik TV": "https://www.tvlogo.org/turkey/powerturk-akustik-tr.png",
+              "Diyanet TV": "https://www.tvlogo.org/turkey/diyanet-tv-tr.png",
+              "Dost TV": "https://www.tvlogo.org/turkey/dost-tv-tr.png",
+              "Lalegül TV": "https://www.tvlogo.org/turkey/lalegul-tv-tr.png",
+              "Sercem TV": "https://www.tvlogo.org/turkey/sercem-tv-tr.png",
+          }
+
+          text = playlist.read_text(encoding="utf-8")
+          lines = text.splitlines()
+          changed = False
+          updated = []
+
+          for line in lines:
+              if line.startswith("#EXTINF") and "tvg-logo=" not in line:
+                  channel = line.rsplit(",", 1)[-1].strip()
+                  candidate = logos.get(channel)
+                  if candidate:
+                      try:
+                          req = urllib.request.Request(
+                              candidate,
+                              headers={"User-Agent": "Mozilla/5.0"},
+                              method="GET"
+                          )
+                          with urllib.request.urlopen(req, timeout=15) as response:
+                              content_type = response.headers.get("Content-Type", "").lower()
+                              valid = response.status == 200 and content_type.startswith("image/")
+                              if valid:
+                                  line = re.sub(r"(?<!\\S)(group-title=)", f'tvg-logo="{candidate}" \\1', line, count=1)
+                                  changed = True
+                                  print(f"Logo confirmado e adicionado: {channel}")
+                              else:
+                                  print(f"Logo ignorado (resposta não é imagem): {channel}")
+                      except Exception as exc:
+                          print(f"Logo não confirmado; mantido sem alteração: {channel} ({exc})")
+              updated.append(line)
+
+          if changed:
+              playlist.write_text("\\n".join(updated) + "\\n", encoding="utf-8")
+              print("Canais.m3u8 atualizado somente nos atributos tvg-logo ausentes.")
+          else:
+              print("Nenhum logo foi confirmado. Playlist mantida sem alterações.")
+          PY
+
+      - name: Salvar alterações
+        run: |
+          if git diff --quiet -- Canais.m3u8; then
+            echo "Nenhuma alteração para salvar."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add Canais.m3u8
+            git commit -m "Adicionar logos confirmados aos canais"
+            git push
+          fi

@@ -38,7 +38,6 @@ https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 
 
-
 #EXTINF:-1 tvg-name="Diyanet TV" group-title="Religiosos",Diyanet TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 
@@ -56,6 +55,7 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 
 #EXTINF:-1 tvg-name="Kanal 7 Avrupa" tvg-logo="https://www.tvlogo.org/turkey/kanal-7-avrupa-tr.png" group-title="ENTRETENIMENTO",Kanal 7 Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+
 
 #EXTINF:-1 tvg-name="360 TV" tvg-logo="https://www.tvlogo.org/turkey/360-tr.png" group-title="ENTRETENIMENTO",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
@@ -274,4 +274,5 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3
 #EXTINF:-1 tvg-name="Minika GO" group-title="Infantis",Minika GO
 https://trkvz-live.daioncdn.net/minikago/minikago_720p.m3u8
 
-
+#EXTINF:-1 tvg-name="PowerTürk Taptaze TV" group-title="Música",PowerTürk Taptaze TV
+https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8

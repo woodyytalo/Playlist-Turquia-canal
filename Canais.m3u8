@@ -274,5 +274,9 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3
 #EXTINF:-1 tvg-name="Minika GO" group-title="Infantis",Minika GO
 https://trkvz-live.daioncdn.net/minikago/minikago_720p.m3u8
 
-#EXTINF:-1 tvg-name="PowerTürk Taptaze TV" group-title="Música",PowerTürk Taptaze TV
-https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NR1 Damar" group-title="MÚSICA",NR1 Damar
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="PowerTürk Taptaze TV" group-title="MÚSICA",PowerTürk Taptaze TV
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8

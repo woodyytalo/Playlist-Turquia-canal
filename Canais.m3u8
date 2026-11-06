@@ -278,5 +278,26 @@ https://trkvz-live.daioncdn.net/minikago/minikago_720p.m3u8
 #EXTINF:-1 tvg-name="NR1 Damar" group-title="MÚSICA",NR1 Damar
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="PowerTürk Taptaze TV" group-title="MÚSICA",PowerTürk Taptaze TV
-https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="4U TV" group-title="ENTRETENIMENTO",4U TV
+https://hls.4utv.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="Al-Zahra TV Turkic" group-title="Religiosos",Al-Zahra TV Turkic
+https://live.al-zahratv.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Aksu TV" group-title="Regionais",Aksu TV
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Alanya Posta TV" group-title="Regionais",Alanya Posta TV
+https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Altas TV" group-title="Regionais",Altas TV
+https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Almahriah TV" group-title="Internacionais",Almahriah TV
+https://starmenajo.com/hls/almahriah/index.m3u8
+
+#EXTINF:-1 tvg-name="Anadolu TV" group-title="Regionais",Anadolu TV
+https://broadcasttr.com:446/anadolurtv/bant1/playist.m3u8
+
+#EXTINF:-1 tvg-name="ARAS TV" group-title="Regionais",ARAS TV
+http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8

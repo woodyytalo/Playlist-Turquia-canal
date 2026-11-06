@@ -1,6 +1,5 @@
 
-#EXTINF:-1 tvg-id="ErzurumWebTV.tr" tvg-name="Erzurum Web TV" group-title="Regionais",Erzurum Web TV
-https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8
+
 
 #EXTINF:-1 tvg-name="CİNE1" group-title="Filmes e Séries",CİNE1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
@@ -78,7 +77,7 @@ https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1 tvg-name="360 TV" tvg-logo="https://www.tvlogo.org/turkey/360-tr.png" group-title="ENTRETENIMENTO",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
-#EXTINF:-1 tvg-name="TV4" tvg-logo="https://www.tvlogo.org/turkey/tv4-tr.png" group-title="ESTILO DE VIDA E VARIEDADES",TV4
+#EXTINF:-1 tvg-name="TV4" tvg-logo="https://www.tvlogo.org/turkey/tv4-tr.png" group-title="ESTILO DE VIDA",TV4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
 #EXTINF:-1 tvg-name="TJK TV" tvg-logo="https://www.tvlogo.org/turkey/tjk-tv-tr.png" group-title="ESPORTES",TJK TV
@@ -348,8 +347,6 @@ https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 #EXTINF:-1 tvg-id="DHA.tr" tvg-name="DHA" group-title="NOTÍCIAS",DHA
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 
-#EXTINF:-1 tvg-name="CİNE1" group-title="Filmes e Séries",CİNE1
-https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
 
 #EXTINF:-1 tvg-id="DenizPostasiTV.tr" tvg-name="Deniz Postası TV" group-title="Regionais",Deniz Postası TV
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
@@ -360,8 +357,6 @@ https://canli.edessatv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="EKOL SPORTS" group-title="Esportes",EKOL SPORTS
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8
 
-#EXTINF:-1 tvg-name="Eko Türk" group-title="NOTÍCIAS",Eko Türk
-http://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=7cItyPb6-p0.m3u8
 
 
 #EXTINF:-1 tvg-id="FortunaTV.tr" tvg-name="Fortuna TV" group-title="ESTILO DE VIDA",Fortuna TV
@@ -370,14 +365,6 @@ https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Flash Haber TV" group-title="NOTÍCIAS",Flash Haber TV
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
-
-
-#EXTINF:-1 tvg-id="ErzurumWebTV.tr" tvg-name="Erzurum Web TV" group-title="Regionais",Erzurum Web TV
-https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8
-
-
-#EXTINF:-1 tvg-name="Finans Türk TV" group-title="NOTÍCIAS",Finans Türk TV
-https://vdo.digitalbox.xyz:3588/live/finansturktvlive.m3u8
 
 
 #EXTINF:-1 tvg-name="FRT TV" group-title="Regionais",FRT TV

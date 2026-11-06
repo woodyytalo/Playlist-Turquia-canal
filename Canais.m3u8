@@ -13,8 +13,6 @@ https://canli.edessatv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="EKOL SPORTS" group-title="Esportes",EKOL SPORTS
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8
 
-#EXTINF:-1 tvg-name="Eko Türk" group-title="Notícias",Eko Türk
-http://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=7cItyPb6-p0.m3u8
 
 #EXTINF:-1 tvg-name="ATV" tvg-logo="https://www.tvlogo.org/turkey/atv-tr.png" group-title="ENTRETENIMENTO",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8

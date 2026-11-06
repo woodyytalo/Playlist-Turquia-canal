@@ -1,5 +1,22 @@
-#EXTINF:-1 tvg-id="DHA.tr" tvg-name="DHA" group-title="Notícias",DHA
-https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8#EXTM3U
+
+#EXTINF:-1 tvg-id="ErzurumWebTV.tr" tvg-name="Erzurum Web TV" group-title="Regionais",Erzurum Web TV
+https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8
+
+#EXTINF:-1 tvg-name="CİNE1" group-title="Filmes e Séries",CİNE1
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
+
+#EXTINF:-1 tvg-id="DenizPostasiTV.tr" tvg-name="Deniz Postası TV" group-title="Regionais",Deniz Postası TV
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EdessaTV.tr" tvg-name="Edessa TV" group-title="Regionais",Edessa TV
+https://canli.edessatv.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="EKOL SPORTS" group-title="Esportes",EKOL SPORTS
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8
+
+#EXTINF:-1 tvg-name="Eko Türk" group-title="Notícias",Eko Türk
+http://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=7cItyPb6-p0.m3u8
+
 #EXTINF:-1 tvg-name="ATV" tvg-logo="https://www.tvlogo.org/turkey/atv-tr.png" group-title="ENTRETENIMENTO",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 
@@ -345,3 +362,23 @@ https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8
 
 #EXTINF:-1 tvg-name="Eko Türk" group-title="NOTÍCIAS",Eko Türk
 http://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=7cItyPb6-p0.m3u8
+
+
+#EXTINF:-1 tvg-id="FortunaTV.tr" tvg-name="Fortuna TV" group-title="ESTILO DE VIDA",Fortuna TV
+https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="Flash Haber TV" group-title="NOTÍCIAS",Flash Haber TV
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
+
+
+#EXTINF:-1 tvg-id="ErzurumWebTV.tr" tvg-name="Erzurum Web TV" group-title="Regionais",Erzurum Web TV
+https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8
+
+
+#EXTINF:-1 tvg-name="Finans Türk TV" group-title="NOTÍCIAS",Finans Türk TV
+https://vdo.digitalbox.xyz:3588/live/finansturktvlive.m3u8
+
+
+#EXTINF:-1 tvg-name="FRT TV" group-title="Regionais",FRT TV
+https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8

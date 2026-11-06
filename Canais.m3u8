@@ -308,7 +308,7 @@ https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ASTV.tr" tvg-name="AS TV" group-title="NOTÍCIA",AS TV
+#EXTINF:-1 tvg-id="ASTV.tr" tvg-name="AS TV" group-title="NOTÍCIAS",AS TV
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Bİ KANAL" group-title="ENTRETENIMENTO",Bİ KANAL

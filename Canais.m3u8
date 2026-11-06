@@ -307,14 +307,14 @@ http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
 https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-name="beIN SPORTS HABER" group-title="Esportes",beIN SPORTS HABER
-https://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS HABER" group-title="Esportes",beIN SPORTS HABER
+https://www.youtube.com/live/i7UpPgxfZZ8
 
 #EXTINF:-1 tvg-id="ASTV.tr" tvg-name="AS TV" group-title="Notícias",AS TV
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Bİ KANAL" group-title="ENTRETENIMENTO",Bİ KANAL
-
+#EXTINF:-1 tvg-name="Bİ KANAL" group-title="Entretenimento",Bİ KANAL
+https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
 #EXTINF:-1 tvg-id="Teve2.tr" tvg-name="teve2" group-title="ENTRETENIMENTO",teve2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 

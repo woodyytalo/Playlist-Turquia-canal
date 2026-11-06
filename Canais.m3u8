@@ -320,3 +320,15 @@ https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 #EXTINF:-1 tvg-name="BirTV.tr" tvg-name="BİR TV" group-title="ENTRETENIMENTO",BİR TV
 https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CayTV.tr" tvg-name="Çay TV" group-title="Regionais",Çay TV
+https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CEM TV" group-title="NOTÍCIAS",CEM TV
+https://59c7ea6bec1c6.streamlock.net/filbox/cemtv.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="CiftciTV.tr" tvg-name="Çiftçi TV" group-title="Documentários",Çiftçi TV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+
+
+

@@ -301,3 +301,24 @@ https://broadcasttr.com:446/anadolurtv/bant1/playist.m3u8
 
 #EXTINF:-1 tvg-name="ARAS TV" group-title="Regionais",ARAS TV
 http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="ATV Alanya" group-title="Regionais",ATV Alanya
+https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-name="beIN SPORTS HABER" group-title="Esportes",beIN SPORTS HABER
+https://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ASTV.tr" tvg-name="AS TV" group-title="Notícias",AS TV
+https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Bİ KANAL" group-title="ENTRETENIMENTO",Bİ KANAL
+
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-name="teve2" group-title="ENTRETENIMENTO",teve2
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+
+
+#EXTINF:-1 tvg-id="BirTV.tr" tvg-name="BİR TV" group-title="ENTRETENIMENTO",BİR TV
+https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8
+

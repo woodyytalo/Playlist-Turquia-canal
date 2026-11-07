@@ -380,3 +380,21 @@ https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
 
 #EXTINF:-1 tvg-name="İçel TV" group-title="Regionais",İçel TV
 https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KocaeliTV.tr" tvg-name="Kocaeli TV" group-title="Regionais",Kocaeli TV
+https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="UFA TV" group-title="Internacionais",UFA TV
+https://h1.intechmedia.net/intech/ch27.m3u8
+
+
+#EXTINF:-1 tvg-name="TV karadeniz" group-title="CULTURA",TV Karadeniz
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KanalFirat.tr" tvg-name="Kanal Fırat" group-title="Regionais",Kanal Fırat
+https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Kanal33.tr" tvg-name="Kanal 33" group-title="Regionais",Kanal 33
+https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8

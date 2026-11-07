@@ -352,7 +352,8 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist
 https://canli.edessatv.com/hls/stream.m3u8
 
 
-
+#EXTINF:-1 tvg-id="24TV.tr" tvg-name="24 TV" group-title="NOTÍCIAS",24 TV
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 
 #EXTINF:-1 tvg-id="FortunaTV.tr" tvg-name="Fortuna TV" group-title="ESTILO DE VIDA",Fortuna TV
 https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8
@@ -364,3 +365,18 @@ https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
 
 #EXTINF:-1 tvg-name="FRT TV" group-title="Regionais",FRT TV
 https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GrandCinema.tr" tvg-name="Grand Cinema" group-title="Filmes e Séries",Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
+
+
+#EXTINF:-1 tvg-id="HTSporTV.tr" tvg-name="HT Spor TV" group-title="ESPORTES",HT Spor TV
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+
+
+#EXTINF:-1 tvg-id="IlkeTV.tr" tvg-name="İlke TV" group-title="NOTÍCIAS",İlke TV
+https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
+
+
+#EXTINF:-1 tvg-name="İçel TV" group-title="Regionais",İçel TV
+https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8
